@@ -146,10 +146,3 @@ function getVTresult($Blocked) {
 
 
 StartScript
-
-
-<# powershell.exe -ExecutionPolicy Bypass -File "\\dyhvnm01.dy.droot.org\install$\PS\McAfeeVTCheck.ps1" #>
-
-<# powershell.exe -ExecutionPolicy Bypass -File "\\Dyhvfs01\zit_ti$\IT-Betrieb\Ausbildung\EdizTefenlilioglu\McAfeeVTCheck.ps1" #>
-
-<# powershell.exe -ExecutionPolicy Bypass -File "C:\temp\0\mcafee.ps1" #>
